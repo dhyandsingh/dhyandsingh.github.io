@@ -1,3 +1,4 @@
+
 .col-sm {
     overflow: hidden;
     margin-bottom: -99999px;
@@ -5,4 +6,8 @@
     color: whitesmoke;
     text-align: center;
     font-size: 34rem;
+    transition: width 2s, height 4s;
+}
+img {
+    overflow: visible;
 }
